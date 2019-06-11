@@ -8,6 +8,8 @@ The purpose of this document is to give a detailed description of the requiremen
 
 Cafeteria is a virtual restaurant who plans to expand their business by building a software application which will allow users to place online meal orders and get it delivered to their desired location (home, office, any custom address etc.).
 
+![Alt text](https://raw.githubusercontent.com/deepu2010/SRS-Document-for-Cafeteria-Ordering-System/master/COS.JPG)
+
 **Importance of Software Requirments**
 
 Software requirements establish the agreement between your team and the customer on what the application is supposed to do. Without a description of what features will be included and details on how the features will work, the users of the software can’t determine if the software will meet their needs.
