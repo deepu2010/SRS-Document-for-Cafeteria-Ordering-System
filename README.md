@@ -8,6 +8,8 @@ The purpose of this document is to give a detailed description of the requiremen
 
 Cafeteria is a virtual restaurant who plans to expand their business by building a software application which will allow users to place online meal orders and get it delivered to their desired location (home, office, any custom address etc.).
 
+**Context Diagram for Cafeteria Ordering System**
+
 ![Alt text](https://raw.githubusercontent.com/deepu2010/SRS-Document-for-Cafeteria-Ordering-System/master/COS.JPG)
 
 **Importance of Software Requirments**
