@@ -1,6 +1,6 @@
 # SRS-Document-for-Cafeteria-Ordering-System
 
-I prepared a Software Requirments Specification (SRS) document, as a part of my graduate course **CPSC 541 - Software Systems, Standards and Requirements** guided by **Prof. James Choi**. This SRS document refers to Uber eats, Postmates, GrubHub, DoorDash etc., and various online food ordering systems.
+I prepared a Software Requirments Specification (SRS) document, as a part of my graduate course **CPSC 541 - Software Systems, Standards and Requirements** guided by **Prof. James Choi**. This SRS document refers to *Uber eats, Postmates, GrubHub, DoorDash etc., and various online food ordering systems.*
 
 The purpose of this document is to give a detailed description of the requirements for the “Cafeteria Ordering System” software. It will illustrate the purpose and complete declaration for the development of system. It will also explain system constraints, interface and interactions with other external applications. This document is primarily intended to be proposed to a customer for its approval. 
 
@@ -28,4 +28,6 @@ The importance of requirements really spans across the entire team. Without any 
 6. Sequence Diagrams
 7. Class Diagrams
 
-This document deals about the importance of gathering requirements and provides a key assistance for software development and design.
+**Conclusion:**
+
+This document deals about the importance of gathering requirements and provides a key assistance for software development and design. This SRS document depicts the key software engineering practices related to *requirements gathering and requirements engineering*. This SRS document can be used for software development methodoglogies - Agile, Waterfall, DevOps etc,. 
